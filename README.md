@@ -1,5 +1,4 @@
 # my-n-back-exe
 
-Compiled program from repo my-n-back
+Compiled program from repository https://github.com/victorprogrammist/my_n_back
 
-Скомпилированная программа из репозитория my-n-back
